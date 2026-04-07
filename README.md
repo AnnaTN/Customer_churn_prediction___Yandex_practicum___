@@ -17,4 +17,4 @@
 - **Обработка данных**: pandas, NumPy
 - **Машинное обучение**: scikit-learn
 - **Визуализация**: matplotlib, seaborn
-- **Модели**: LogisticRegression, SVC, LinearSVC (DummyClassifier в качестве базовой модели)
+- **Модели**: LogisticRegression
